@@ -1,2 +1,1 @@
-# l-p-tr-nh-d-nh-cho-k-thu-t-HUCE
-Lập trình python
+#Lập trình danh cho kỹ thuật HUCE 
